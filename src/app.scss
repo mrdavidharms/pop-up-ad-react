@@ -1,1 +1,34 @@
 /* Your styling here */
+
+#outer-box {
+  background-color: #F22FC3;
+  position: absolute;
+  border: solid;
+  border-radius: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+}
+
+#x-close {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+#input-field {
+  background-color: #F4D748;
+  border: solid;
+}
+
+.header {
+  color: #F4D748;
+}
+
+#input-button {
+  left: 40%;
+  position: relative;
+  background-color: #12BFBC;
+  color: #F22FC3;
+}
